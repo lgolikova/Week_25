@@ -5,7 +5,7 @@ import { Chart } from "react-google-charts";
 
 
 export const data = [
-  ["Task", "Hours per Day"],
+  ["Language", "percent"],
   ["JavaScript", 18.8],
   ["С#", 14.7],
   ["Java", 14.3],
